@@ -1,2 +1,2 @@
 HUGE update coming soon. Opening a personal website running on a home server. 
-elkwork is now an official library on PYPI. Get with pip install elkwork.
+Elkwork is now an official library on PYPI. Get with pip install elkwork.
